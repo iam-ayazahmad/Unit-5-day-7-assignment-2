@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Caroline",
+      "age": 17,
+      "address": "new street, Chhatarpur",
+      "department": "Civil",
+      "salary": 50000,
+      "maritalstate": "Married"
+    },
+    {
+      "name": "jack",
+      "age": "55",
+      "address": "new",
+      "department": "electrical",
+      "salary": "60000",
+      "maritalstate": "Unmarried",
+      "id": 2
+    }
+  ]
+}
